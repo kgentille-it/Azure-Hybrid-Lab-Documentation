@@ -1,6 +1,6 @@
 # ☁️ Lab Architecture Cloud & Hybridation
 
-Ce projet démontre la mise en place d'une infrastructure hybride sécurisée, de l'annuaire local jusqu'au Cloud Azure, incluant de l'automatisation IaC.
+Ce projet démontre la mise en place d'une infrastructure hybride sécurisée, de l'annuaire local jusqu'au Cloud Azure.
 
 ## 🛠️ Expertise Azure & Identité
 - **Hybridation :** Synchronisation d'identité **PHS** via Microsoft Entra Connect.
