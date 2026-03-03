@@ -1,4 +1,4 @@
-# ☁️ Lab Architecture Cloud & Hybridation
+#  Lab Architecture Cloud & Hybridation
 
 Ce projet démontre la mise en place d'une infrastructure hybride sécurisée, de l'annuaire local jusqu'au Cloud Azure.
 
